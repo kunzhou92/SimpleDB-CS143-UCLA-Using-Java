@@ -1,6 +1,6 @@
 # Database System
 ## UCLA CS 143 Lab Projects, Winter 2016
-SimpleDB was written in Java. A set of mostly unimplemented classes and interfaces were provided. I wrote the code for these classes. The Java class files are saved in the directory _'Simple_Database_System/src/java/simpledb'_ 
+SimpleDB was written in Java. A set of mostly unimplemented classes and interfaces were provided. I wrote the code for these classes. The Java class files are saved in the directory _Simple_Database_System/src/java/simpledb_ 
 
 ### Lab1 
 Implemented the classes to manage tuples, namely _Tuple_, *TupleDesc* which support integer and (fixed length) string fields and fixed length tuples. (*Field*, *IntField*, *StringField*, and *Type* had already been implemented.
